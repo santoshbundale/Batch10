@@ -7,6 +7,7 @@ namespace GitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to GIT");
+            Console.WriteLine("working....");
             Console.ReadKey();
         }
     }
