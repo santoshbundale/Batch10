@@ -11,8 +11,11 @@ namespace GitDemo
 
             Console.WriteLine("work done by abhijit");
 
+            string str = "Santosh";
+            for (int i = 0; i < str.Length; i++)
+            {
 
-
+            }
             Console.WriteLine("work done by abhijit");
 
 
